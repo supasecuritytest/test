@@ -11,7 +11,7 @@ metadata:
     - title: hehe
       url: data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K
   annotations:
-    github.com/project-slug: hehe/haha
+    github.com/project-slug: hehe/haha {{ 7*7 }}
     backstage.io/techdocs-ref: dir:./../../../etc/passwd
     lighthouse.com/website-url: https://hoho
 spec:
