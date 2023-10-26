@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
-kind: lalala
+kind: Product
 metadata:
-  name: sectest2
+  name: sectest3
   description: |
     hehe sec test ${7*7} ${{ 7*7 }} {{ 7*7 }}
   links:
